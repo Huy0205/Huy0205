@@ -21,3 +21,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Huy0205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
+## My favorite project:
+<div>
+    <a href="https://github.com/Huy0205/TikTok_Clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=TikTok_Clone&theme=dracula" alt="TikTok_Clone" height="150" />
+    </a>
+</div>
+
+
