@@ -10,26 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy0205&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Top project:
-<a href="https://github.com/Huy0205/TikTok_Clone" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=TikTok_Clone&theme=react" alt="TikTok_Clone" width="49%" />
-</a>
-<a href="https://github.com/Huy0205/ChatApp" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=ChatApp&theme=react" alt="ChatApp" width="49%" />
-</a>
 
-<a href="https://github.com/Huy0205/SellEquipment" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=SellEquipment&theme=react" alt="SellEquipment" width="49%" />
-</a>
-<a href="https://github.com/Huy0205/OnlineSales" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=OnlineSales&theme=react" alt="OnlineSales" width="49%"/>
-</a>
-
-<a href="https://github.com/Huy0205/YogaApp" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=YogaApp&theme=react" alt="YogaApp" width="49%" />
-</a>
-<a href="https://github.com/Huy0205/KaraokeManagement" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=KaraokeManagement&theme=react" alt="KaraokeManagement" width="49%"/>
-</a>
 
 
 
