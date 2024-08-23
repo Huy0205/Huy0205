@@ -21,15 +21,17 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=SellEquipment&theme=react" alt="SellEquipment" width="49%" />
 </a>
 <a href="https://github.com/Huy0205/OnlineSales" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=OnlineSales&theme=react" alt="OnlineSales" width="49%" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=OnlineSales&theme=react" alt="OnlineSales" width="49%"/>
 </a>
 
 <a href="https://github.com/Huy0205/YogaApp" align="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=YogaApp&theme=react" alt="YogaApp" width="49%" />
 </a>
 <a href="https://github.com/Huy0205/KaraokeManagement" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=KaraokeManagement&theme=react" alt="KaraokeManagement" width="49%" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huy0205&repo=KaraokeManagement&theme=react" alt="KaraokeManagement" width="49%"/>
 </a>
+
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Huy0205&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
